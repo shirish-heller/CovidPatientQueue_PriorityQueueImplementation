@@ -1,0 +1,9 @@
+----registerPatient---------------
+No of patients added: 3
+
+Refreshed queue: 
+100060, Surya
+100154, Ajay
+100257, Rishi
+----------------------------------------------
+
